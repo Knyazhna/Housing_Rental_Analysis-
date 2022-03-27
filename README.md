@@ -28,14 +28,14 @@ from pathlib import Path
 
 **Calculate and Plot the Housing Units per Year**
 
-First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
+|First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
 
 
 ![Housing Units per Year](Images/zoomed-housing-units-by-year.png)
 
 **Calculate and Plot the Average Sale Prices per Square Foot**
 
-Next we will use numerical and visual aggregation to calculate the average prices per square foot, hvplot then visualize the results as a bar chart. 
+>Next we will use numerical and visual aggregation to calculate the average prices per square foot, hvplot then visualize the results as a bar chart. 
 
 
 ![Pricing compare](Images/avg-sale-px-sq-foot-gross-rent.png)
