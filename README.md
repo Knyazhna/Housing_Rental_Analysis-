@@ -14,6 +14,7 @@ First install the following libraries and dependencies.
 ```
 # conda
 conda install pandas
+conda install -c pyviz hvplot geoviews
 ```
 
 ```
@@ -27,11 +28,18 @@ from pathlib import Path
 
 **Calculate and Plot the Housing Units per Year**
 
+![Housing Units per Year](../Images/zoomed-housing-units-by-year.png)
+
 **Calculate and Plot the Average Sale Prices per Square Foot**
 
+![Pricing compare](../Images/avg-sale-px-sq-foot-gross-rent.png)
 **Compare the Average Sale Prices by Neighborhood**
 
+![Price per Neighborhood](../Images/pricing-info-by-neighborhood.png)
+
 **Build an Interactive Neighborhood Map**
+
+![GeoView](../Images/6-4-geoviews-plot.png)
 
 **Compose Your Data Story**
 
