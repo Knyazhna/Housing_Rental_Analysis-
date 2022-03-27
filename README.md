@@ -28,7 +28,7 @@ from pathlib import Path
 
 **Calculate and Plot the Housing Units per Year**
 
-|First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
+|   First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
 
 
 ![Housing Units per Year](Images/zoomed-housing-units-by-year.png)
@@ -42,19 +42,19 @@ from pathlib import Path
 
 **Compare the Average Sale Prices by Neighborhood**
 
-Now we can use interactive visualizations and interactive widgets to explore the average sale price per square foot by neighborhood.
+>Now we can use interactive visualizations and interactive widgets to explore the average sale price per square foot by neighborhood.
 
 ![Price per Neighborhood](Images/pricing-info-by-neighborhood.png)
 
 **Build an Interactive Neighborhood Map**
 
-Last part is to explore the geospatial relationships in the data by using interactive visualizations with hvPlot and GeoViews. 
+>Last part is to explore the geospatial relationships in the data by using interactive visualizations with hvPlot and GeoViews. 
 
 ![GeoView](Images/6-4-geoviews-plot.png)
 
 **Compose Your Data Story**
 
-We can create an overlay hvplot to better compare and visualize trends in rental income vs trends in sale prices.
+>We can create an overlay hvplot to better compare and visualize trends in rental income vs trends in sale prices.
 
 ![Overlay_map](Images/Overlay_map.png)
 
