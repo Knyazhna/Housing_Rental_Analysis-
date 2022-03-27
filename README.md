@@ -28,7 +28,7 @@ from pathlib import Path
 
 **Calculate and Plot the Housing Units per Year**
 
-|   First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
+>First part of the assignment, is to use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar char.
 
 
 ![Housing Units per Year](Images/zoomed-housing-units-by-year.png)
